@@ -19,7 +19,7 @@
       <timezone>-6</timezone>
     </developer>
   </developers>
-
+<!-- Java8 take  -->
   <properties>
     <!-- Java8 takes Javadoc-Nazi attitude, insert some sanity here --> 
     <additionalparam>-Xdoclint:none</additionalparam>
